@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    text-align: center;
+}
+
+header {
+    background-color: #4a90e2;
+    color: white;
+    padding: 60px 20px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background-color: white;
+    color: #4a90e2;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.features {
+    padding: 40px 20px;
+}
+
+.box {
+    background-color: #f4f4f4;
+    margin: 20px auto;
+    padding: 20px;
+    width: 250px;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
